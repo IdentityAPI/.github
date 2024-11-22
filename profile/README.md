@@ -1,6 +1,10 @@
 # Welcome to IdentityAPI 🌟
 
+[![Back-end](https://skillicons.dev/icons?i=python,django,postgres,redis,postman)](https://skillicons.dev)
+
 ## Overview 📋
+
+APIs for authentication, authorization, and communication. Created with Django & DRF, it builds foundational systems with seamless integration.
 
 ---
 
