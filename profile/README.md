@@ -6,7 +6,7 @@
 
 ## What We Build at IdentityAPI 🛠️
 
-**IdentityAPI** builds **scalable foundational systems** with core functionalities. Our focus lies in providing streamlined solutions for authentication, authorization, and user communication. Built with flexibility in mind, **IdentityAPI** is front-end agnostic, allowing seamless integration with any front-end framework or technology.
+**IdentityAPI** builds foundational systems that handle core functionalities like **authentication**, **authorization**, and **user communication**. With flexibility and scalability at its core, **IdentityAPI** is **front-end agnostic**, enabling integration with any framework to meet diverse business needs.  
 
 ### Who We Serve 🌍
 
